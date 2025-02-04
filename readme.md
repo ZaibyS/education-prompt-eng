@@ -48,8 +48,5 @@ We welcome contributions to enhance this framework. To contribute:
 2. Create a new branch (`feature-branch-name`).
 3. Submit a pull request with detailed documentation of changes.
 
-## License
-This project is licensed under the MIT License. See `LICENSE` for details.
-
 ## Contact
 For questions or collaboration, please open an issue or reach out via GitHub Discussions.
