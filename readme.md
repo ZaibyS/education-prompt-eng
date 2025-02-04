@@ -1,9 +1,10 @@
 # Education Prompt Engineering Framework
 
 ## Overview
-The `education-prompt-eng` repository provides a structured framework for developing comprehensive lesson plans using advanced instructional design methodologies. This framework is designed to assist Subject Matter Experts (SMEs) in crafting well-structured educational materials without prior experience in instructional design.
+The `education-prompt-eng` repository provides a structured framework for developing comprehensive lesson plans using advanced instructional design methodologies. This framework was developed as part of a **custom GPT model in ChatGPT**, designed to assist Subject Matter Experts (SMEs) in crafting structured and effective educational materials, even without prior experience in instructional design.
 
 ## Key Features
+- **Custom GPT Integration**: Built using a specialized ChatGPT model tailored for instructional design.
 - **Structured Lesson Plan Format**: Based on Understanding by Design (UbD), Bloom’s Taxonomy, and the 5E Model.
 - **Guided Framework**: Step-by-step instructions to ensure quality and coherence in lesson plans.
 - **SME Feedback Loop**: Interactive process for refinement and improvement.
@@ -47,6 +48,7 @@ We welcome contributions to enhance this framework. To contribute:
 1. Fork the repository.
 2. Create a new branch (`feature-branch-name`).
 3. Submit a pull request with detailed documentation of changes.
+
 
 ## Contact
 For questions or collaboration, please open an issue or reach out via GitHub Discussions.
